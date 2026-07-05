@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=0175C2&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=dmaiann&label=PROFILE%20VIEWS&color=0175C2&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-3FCF8E?style=for-the-badge" />
 
 </div>
@@ -154,8 +154,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dmaiann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmaiann&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=dmaiann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dmaiann&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
